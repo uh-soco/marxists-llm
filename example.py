@@ -2,7 +2,9 @@ from transformers import AutoModel, AutoTokenizer
 from datasets import load_dataset
 from transformers import Trainer, TrainingArguments
 
-model_name = "distilbert/distilroberta-base"
+# model_name = "distilgpt2" ## not good
+# model_name = "distilbert/distilgpt2"
+model_name = "openai-community/gpt2"
 
 from transformers import AutoTokenizer
 
@@ -16,7 +18,7 @@ def tokenize_function(examples):
 
 tokenized_datasets = datasets.map(tokenize_function, batched=True, num_proc=4, remove_columns=["text"])
 
-block_size = 2**6
+block_size = 2**7
 
 def group_texts(examples):
     # Concatenate all texts.
@@ -47,9 +49,9 @@ model = AutoModelForCausalLM.from_pretrained(model_name)
 
 training_args = TrainingArguments(
     evaluation_strategy = "epoch",
-    learning_rate=2e-10,
+    learning_rate=2e-5,
+    num_train_epochs=8,
     weight_decay=0.01,
-    warmup_steps=500,
     output_dir="./results",
     logging_dir='./logs',
     logging_steps=10,
