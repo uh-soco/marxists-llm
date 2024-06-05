@@ -1,25 +1,35 @@
 import transformers
+import tokenizers
+import random
+import torch
+
+torch.manual_seed(0)
+random.seed(0)
 
 from datasets import load_dataset
 from datasets import ClassLabel
+
 from transformers import AutoTokenizer
 from transformers import AutoModelForMaskedLM
 from transformers import Trainer, TrainingArguments
 
 datasets = load_dataset("text", data_files={"train": './data/*.txt', "validation": './data/*.txt'})
 
+# model_checkpoint = "FacebookAI/roberta-base"
 # model_checkpoint = "distilbert/distilroberta-base"
-model_checkpoint = "google-bert/bert-base-uncased"
+# model_checkpoint = "google-bert/bert-base-cased"
+model_checkpoint = "distilbert/distilbert-base-uncased"
 
 tokenizer = AutoTokenizer.from_pretrained(model_checkpoint, use_fast=True)
-tokenizer.pad_token = tokenizer.eos_token
+tokenizer.normalizer = tokenizers.normalizers.BertNormalizer()
+# tokenizer.pad_token = tokenizer.eos_token
 
 def tokenize_function(examples):
     return tokenizer(examples["text"])
 
 tokenized_datasets = datasets.map(tokenize_function, batched=True, num_proc=4, remove_columns=["text"])
 
-block_size = 2**6
+block_size = 2*4
 
 def group_texts(examples):
     # Concatenate all texts.
@@ -46,12 +56,13 @@ lm_datasets = tokenized_datasets.map(
 model = AutoModelForMaskedLM.from_pretrained( model_checkpoint )
 
 training_args = TrainingArguments(
-   # f"{model_name}-finetuned-wikitext2",
     evaluation_strategy = "epoch",
     learning_rate=2e-5,
     num_train_epochs=8,
     weight_decay=0.01,
     output_dir="./results",
+    logging_dir='./logs',
+    logging_steps=10,
 )
 
 from transformers import DataCollatorForLanguageModeling
@@ -73,4 +84,4 @@ eval_results = trainer.evaluate()
 print(f"Perplexity: {math.exp(eval_results['eval_loss']):.2f}")
 
 trainer.save_model("./my_fine_tuned_model-masked")
-tokenizer.save_pretrained("./my_fine_tuned_model-masked")
+# tokenizer.save_pretrained("./my_fine_tuned_model-masked")
