@@ -15,6 +15,7 @@ models = models.split("\n")
 
 for model_name in models:
 
+    print(f"Start {model_name}")
     torch.manual_seed(0)
     random.seed(0)
 
@@ -53,10 +54,10 @@ for model_name in models:
     training_args = TrainingArguments(
         evaluation_strategy = "epoch",
         learning_rate=2e-5,
-        num_train_epochs=8,
+        num_train_epochs=10,
         weight_decay=0.01,
-        output_dir="./results",
-        logging_dir='./logs',
+        output_dir= f"./{model_name.replace('/', '_')}-finetuned-causal-output",
+        logging_dir= f"./{model_name.replace('/', '_')}-finetuned-causal-logs",
         logging_steps=10,
     )
 
@@ -68,5 +69,6 @@ for model_name in models:
     )
 
     trainer.train()
-
+    print( f"Saving {model_name}" )
     trainer.save_model(f"./{model_name.replace('/', '_')}-finetuned-causal")
+    tokenizer.save_pretrained(f"./{model_name.replace('/', '_')}-finetuned-causal")
