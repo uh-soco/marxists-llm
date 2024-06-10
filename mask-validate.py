@@ -1,30 +1,31 @@
+
 from transformers import pipeline
 
 import torch
 
 import random
 
+models = """google-bert/bert-base-cased
+distilbert/distilbert-base-cased
+FacebookAI/roberta-base
+microsoft/deberta-v3-base
+distilbert/distilroberta-base"""
+models = models.split("\n")
+
 prompts = open("prompts.txt").readlines()
 
-# model_checkpoint = "distilbert/distilroberta-base"
-# model_checkpoint = "FacebookAI/roberta-base"
-model_checkpoint = "distilbert/distilbert-base-uncased"
+for model_name in models:
 
-models = [model_checkpoint, './my_fine_tuned_model-masked/']
-# models = ["google-bert/bert-base-cased", './my_fine_tuned_model-masked/']
-
-for prompt in prompts:
-
-    print( prompt )
-
-    for model in models:
+    for prompt in prompts:
 
         torch.manual_seed(0)
         random.seed(0)
-        
-        generator = pipeline('fill-mask', model = model )
-        text = generator(prompt.lower() + '[MASK].' ) # '<mask>' )
 
-        print( model, text[0]['sequence'] )
+        print( prompt )
+        generator = pipeline('text-generation', model = f"./{model_name.replace('/', '_')}-finetuned-masked"))
 
-    print()
+        for i in range( 10 ):
+            text = generator( prompt + '[MASK]' ) 
+            print( model_name, text[0]['generated_text'].replace('\n', ' ') )
+
+        print()
