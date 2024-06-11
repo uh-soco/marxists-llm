@@ -11,7 +11,7 @@ bigscience/bloom
 microsoft/phi-2"""
 models = models.split("\n")
 
-out = csv.writer( open("causal.csv") )
+out = csv.writer( open("causal.csv", "w") )
 out.writerow(  ["model", "prompt", "output"] )
 
 prompts = open("prompts.txt").readlines()
@@ -23,8 +23,8 @@ for model_name in models:
         torch.manual_seed(0)
         random.seed(0)
 
-        generator = pipeline('text-generation', model = f"./{model_name.replace('/', '_')}-finetuned-causal"))
+        generator = pipeline('text-generation', model = f"./models/{model_name.replace('/', '_')}-finetuned-causal/")
 
         for i in range( 10 ):
-            text = generator( prompt ) 
-            out.writerow(  [model_name, prompt, text[0]['generated_text'].replace('\n', ' ') ] )
+            text = generator( prompt )
+            out.writerow(  [model_name, prompt.strip(), text[0]['generated_text'].replace('\n', ' ').strip() ] )
