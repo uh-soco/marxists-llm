@@ -21,6 +21,7 @@ for model_name in models:
 
     tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=True)
     tokenizer.pad_token = tokenizer.eos_token
+    tokenizer.normalizer = tokenizer.normalizers.BertNormalizer( lowercase=False )
 
     datasets = load_dataset("text", data_files={"train": './data/*.txt', "validation": './data/*.txt'})
 

@@ -207,7 +207,7 @@ for surprise as to that which a complete and interdependent system of
 finely adjusted machinery has brought about, machinery which receives raw
 material and turns out woven goods.
 
-Meanwhile, let us trace the development of English manufacture {7}
+Meanwhile, let us trace the development of English manufacture   
 somewhat more minutely, beginning with the cotton industry.  In the years
 1771-1775, there were annually imported into England rather less than
 5,000,000 pounds of raw cotton; in the year 1841 there were imported
@@ -637,7 +637,7 @@ the elect of the middle-class to the throne, but only to overthrow them
 the more surely when the time comes.  Meanwhile, it is an undenied and
 easily explained fact that the numerous, petty middle-class of the "good
 old times" has been annihilated by manufacture, and resolved into rich
-capitalists on the one hand and poor workers on the other. {20}
+capitalists on the one hand and poor workers on the other. {2  
 
 The centralising tendency of manufacture does not, however, stop here.
 Population becomes centralised just as capital does; and, very naturally,
@@ -717,7 +717,7 @@ together, until, at last, only a narrow passage remains in the middle of
 the river, a passage through which hundreds of steamers shoot by one
 another; all this is so vast, so impressive, that a man cannot collect
 himself, but is lost in the marvel of England's greatness before he sets
-foot upon English soil. {23}
+foot upon English soil. {2  
 
 But the sacrifices which all this has cost become apparent later.  After
 roaming the streets of the capital a day or two, making headway with
@@ -1037,7 +1037,7 @@ Victoria.  Let us hear the London _Times_:
    night, winter after winter, women--young in years--old in sin and
    suffering--outcasts from society--ROTTING FROM FAMINE, FILTH, AND
    DISEASE.  Let them remember this, and learn not to theorise but to
-   act.  God knows, there is much room for action nowadays." {32}
+   act.  God knows, there is much room for action nowadays." {3  
 
 I have referred to the refuges for the homeless.  How greatly overcrowded
 these are, two examples may show.  A newly erected Refuge for the
@@ -1072,7 +1072,7 @@ great towns.  The poor quarters of Dublin are extremely extensive, and
 the filth, the uninhabitableness of the houses and the neglect of the
 streets, surpass all description.  Some idea of the manner in which the
 poor are here crowded together may be formed from the fact that, in 1817,
-according to the report of the Inspector of Workhouses, {33} 1,318
+according to the report of the Inspector of Workhouses, {3   1,318
 persons lived in 52 houses with 390 rooms in Barral Street, and 1,997
 persons in 71 houses with 393 rooms in and near Church Street; that:
 
@@ -1118,7 +1118,7 @@ Religious Instruction, that:
    Scotland."
 
 In the Edinburgh _Medical and Surgical Journal_, Dr. Hennan reports a
-similar state of things.  From a Parliamentary Report, {35a} it is
+similar state of things.  From a Parliamentary Report, {35   it is
 evident that in the dwellings of the poor of Edinburgh a want of
 cleanliness reigns, such as must be expected under these conditions.  On
 the bed-posts chickens roost at night, dogs and horses share the
@@ -1132,7 +1132,7 @@ these wynds form the proletarian district of the city.  The houses of the
 Scotch cities, in general, are five or six-storied buildings, like those
 of Paris, and in contrast with England where, so far as possible, each
 family has a separate house.  The crowding of human beings upon a limited
-area is thus intensified. {35b}
+area is thus intensified. {35  
 
    "These streets," says an English journal in an article upon the
    sanitary condition of the working-people in cities, "are often so
@@ -1229,7 +1229,7 @@ wynds, the same tall houses.  Of this city the _Artisan_ observes:
 
 Let us hear how J. C. Symonds, Government Commissioner for the
 investigation of the condition of the hand-weavers, describes these
-portions of the city: {38}
+portions of the city: {3  
 
    "I have seen wretchedness in some of its worse phases both here and
    upon the Continent, but until I visited the wynds of Glasgow I did not
@@ -1298,7 +1298,7 @@ flows into the city at one end clear and transparent, and flows out at
 the other end thick, black, and foul, smelling of all possible refuse),
 "the houses and cellars are often so full of water that they have to be
 pumped out.  And at such times the water rises, even where there are
-sewers, out of them into cellars, {40a} engenders miasmatic vapours
+sewers, out of them into cellars, {40   engenders miasmatic vapours
 strongly impregnated with sulphuretted hydrogen, and leaves a disgusting
 residuum highly injurious to health.  During the spring-floods of 1839
 the action of such a choking of the sewers was so injurious, that,
@@ -1312,7 +1312,7 @@ districts there are several streets covered with soft mud a foot deep.
 The inhabitants have made vain attempts from time to time to repair these
 streets with shovelfuls of cinders, but in spite of all such attempts,
 dung-heaps, and pools of dirty water emptied from the houses, fill all
-the holes until wind and sun dry them up. {40b}  An ordinary cottage in
+the holes until wind and sun dry them up. {40    An ordinary cottage in
 Leeds occupies not more than five yards square of land, and usually
 consists of a cellar, a living room, and one sleeping-room.  These
 contracted dwellings, filled day and night with human beings, are another
@@ -1621,7 +1621,7 @@ stairs and over heaps of refuse and filth.  The first court below Ducie
 Bridge, known as Allen's Court, was in such a state at the time of the
 cholera that the sanitary police ordered it evacuated, swept, and
 disinfected with chloride of lime.  Dr. Kay gives a terrible description
-of the state of this court at that time. {49}  Since then, it seems to
+of the state of this court at that time. {4    Since then, it seems to
 have been partially torn away and rebuilt; at least looking down from
 Ducie Bridge, the passer-by sees several ruined walls and heaps of debris
 with some newer houses.  The view from this bridge, mercifully concealed
@@ -1825,7 +1825,7 @@ ventilation, this method of shutting them up in courts surrounded on all
 sides by buildings is far more so.  The air simply cannot escape; the
 chimneys of the houses are the sole drains for the imprisoned atmosphere
 of the courts, and they serve the purpose only so long as fire is kept
-burning. {55}  Moreover, the houses surrounding such courts are usually
+burning. {5    Moreover, the houses surrounding such courts are usually
 built back to back, having the rear wall in common; and this alone
 suffices to prevent any sufficient through ventilation.  And, as the
 police charged with care of the streets, does not trouble itself about
@@ -2084,7 +2084,7 @@ dwellings only a physically degenerate race, robbed of all humanity,
 degraded, reduced morally and physically to bestiality, could feel
 comfortable and at home.  And I am not alone in making this assertion.  We
 have seen that Dr. Kay gives precisely the same description; and, though
-it is superfluous, I quote further the words of a Liberal, {63}
+it is superfluous, I quote further the words of a Liberal, {6  
 recognised and highly valued as an authority by the manufacturers, and a
 fanatical opponent of all independent movements of the workers:
 
@@ -2127,7 +2127,7 @@ spots, as Little Ireland proves, the old filthy condition was naturally
 restored in a couple of months.  As to the internal condition of these
 houses, the same Commission reports a state of things similar to that
 which we have already met with in London, Edinburgh, and other cities.
-{64}
+{6  
 
 It often happens that a whole Irish family is crowded into one bed; often
 a heap of filthy straw or quilts of old sacking cover all in an
@@ -2156,7 +2156,7 @@ bedsteads, and on these sleep, mixed indiscriminately, as many persons as
 apply.  What physical and moral atmosphere reigns in these holes I need
 not state.  Each of these houses is a focus of crime, the scene of deeds
 against which human nature revolts, which would perhaps never have been
-executed but for this forced centralisation of vice. {65}  Gaskell gives
+executed but for this forced centralisation of vice. {6    Gaskell gives
 the number of persons living in cellars in Manchester proper as 20,000.
 The _Weekly Dispatch_ gives the number, "according to official reports,"
 as twelve per cent. of the working-class, which agrees with Gaskell's
@@ -2215,7 +2215,7 @@ putting wool or bagging on fustian, or the reverse--it's all the same to
 them.  But the true, transplanted Irish hardly ever patch except in the
 extremest necessity, when the garment would otherwise fall apart.
 Ordinarily the rags of the shirt protrude through the rents in the coat
-or trousers.  They wear, as Thomas Carlyle says,--{67}
+or trousers.  They wear, as Thomas Carlyle says,--{6  
 
    "A suit of tatters, the getting on or off which is said to be a
    difficult operation, transacted only in festivals and the high tides
@@ -2638,7 +2638,7 @@ his employment, his existence.  The bourgeoisie, on the other hand, is
 far better off under the present arrangement than under the old slave
 system; it can dismiss its employees at discretion without sacrificing
 invested capital, and gets its work done much more cheaply than is
-possible with slave labour, as Adam Smith comfortingly pointed out. {80}
+possible with slave labour, as Adam Smith comfortingly pointed out. {8  
 
 Hence it follows, too, that Adam Smith was perfectly right in making the
 assertion: "That the demand for men, like that for any other commodity,
@@ -2868,7 +2868,7 @@ not enter into the present discussion.  During a crisis this number
 naturally increases markedly, and want reaches its highest pitch.  Take,
 for instance, the crisis of 1842, which, being the latest, was the most
 violent; for the intensity of the crisis increases with each repetition,
-and the next, which may be expected not later than 1847, {87} will
+and the next, which may be expected not later than 1847, {8   will
 probably be still more violent and lasting.  During this crisis the poor-
 rates rose in every town to a hitherto unknown height.  In Stockport,
 among other towns, for every pound paid in house-rent, eight shillings of
@@ -2948,12 +2948,12 @@ not far from fifty thousand still come every year, nearly all of whom
 enter the industrial districts, especially the great cities, and there
 form the lowest class of the population.  Thus there are in London,
 120,000; in Manchester, 40,000; in Liverpool, 34,000; Bristol, 24,000;
-Glasgow, 40,000; Edinburgh, 29,000, poor Irish people. {90a}  These
+Glasgow, 40,000; Edinburgh, 29,000, poor Irish people. {90    These
 people having grown up almost without civilisation, accustomed from youth
 to every sort of privation, rough, intemperate, and improvident, bring
 all their brutal habits with them among a class of the English population
 which has, in truth, little inducement to cultivate education and
-morality.  Let us hear Thomas Carlyle upon this subject: {90b}
+morality.  Let us hear Thomas Carlyle upon this subject: {90  
 
    "The wild Milesian features, looking false ingenuity, restlessness,
    unreason, misery, and mockery, salute you on all highways and byways.
@@ -3089,7 +3089,7 @@ what their physical, mental, and moral status.
 When one individual inflicts bodily injury upon another, such injury that
 death results, we call the deed manslaughter; when the assailant knew in
 advance that the injury would be fatal, we call his deed murder.  But
-when society {95} places hundreds of proletarians in such a position that
+when society {9   places hundreds of proletarians in such a position that
 they inevitably meet a too early and an unnatural death, one which is
 quite as much a death by violence as that by the sword or bullet; when it
 deprives thousands of the necessaries of life, places them under
@@ -3239,7 +3239,7 @@ crisis, subsiding somewhat each time after having raged about three
 years.  In Edinburgh about 6,000 persons were attacked by the fever
 during the epidemic of 1817, and about 10,000 in that of 1837, and not
 only the number of persons attacked but the violence of the disease
-increased with each repetition. {100a}
+increased with each repetition. {100  
 
 But the fury of the epidemic in all former periods seems to have been
 child's play in comparison with its ravages after the crisis of 1842.  One-
@@ -3252,12 +3252,12 @@ population were seized in the year 1843; 32,000 persons, of whom thirty-
 two per cent. perished, while this mortality in Manchester and Liverpool
 does not ordinarily exceed eight per cent.  The illness reached a crisis
 on the seventh and fifteenth days; on the latter, the patient usually
-became yellow, which our authority {100b} regards as an indication that
+became yellow, which our authority {100   regards as an indication that
 the cause of the malady was to be sought in mental excitement and
 anxiety.  In Ireland, too, these fever epidemics have become
 domesticated.  During twenty-one months of the years 1817-1818, 39,000
 fever patients passed through the Dublin hospital; and in a more recent
-year, according to Sheriff Alison, {100c} 60,000.  In Cork the fever
+year, according to Sheriff Alison, {100   60,000.  In Cork the fever
 hospital received one-seventh of the population in 1817-1818, in Limerick
 in the same time one-fourth, and in the bad quarter of Waterford,
 nineteen-twentieths of the whole population were ill of the fever at one
@@ -3370,7 +3370,7 @@ impossibility of employing skilled physicians in cases of illness.  It is
 true that a number of charitable institutions strive to supply this want,
 that the infirmary in Manchester, for instance, receives or gives advice
 and medicine to 2,200 patients annually.  But what is that in a city in
-which, according to Gaskell's calculation, {104} three-fourths of the
+which, according to Gaskell's calculation, {10   three-fourths of the
 population need medical aid every year?  English doctors charge high
 fees, and working-men are not in a position to pay them.  They can
 therefore do nothing, or are compelled to call in cheap charlatans, and
@@ -3404,7 +3404,7 @@ less susceptible the child's system to the action of the opium, the
 greater the quantities administered.  When the cordial ceases to act,
 laudanum alone is given, often to the extent of fifteen to twenty drops
 at a dose.  The Coroner of Nottingham testified before a Parliamentary
-Commission {105a} that one apothecary had, according to his own
+Commission {105   that one apothecary had, according to his own
 statement, used thirteen hundredweight of laudanum in one year in the
 preparation of Godfrey's Cordial.  The effects upon the children so
 treated may be readily imagined.  They are pale, feeble, wilted, and
@@ -3427,7 +3427,7 @@ unquestionable testimony.
 
 According to the Report of Registrar-General Graham, the annual death-
 rate of all England and Wales is something less than 2.25 per cent.  That
-is to say, out of forty-five persons, one dies every year. {105b}  This
+is to say, out of forty-five persons, one dies every year. {105    This
 was the average for the year 1839-40.  In 1840-41 the mortality
 diminished somewhat, and the death-rate was but one in forty-six.  But in
 the great cities the proportion is wholly different.  I have before me
@@ -3448,7 +3448,7 @@ the death-rate among them is but one in 47.54, or nearly two-and-a-half
 per cent. better than that for all England.  All these statements are
 based upon the mortality tables for 1843.  Still higher is the death-rate
 in the Scotch cities; in Edinburgh, in 1838-39, one in 29; in 1831, in
-the Old Town alone, one in 22.  In Glasgow, according to Dr. Cowen, {106}
+the Old Town alone, one in 22.  In Glasgow, according to Dr. Cowen, {10  
 the average has been, since 1830, one in 30; and in single years, one in
 22 to 24.  That this enormous shortening of life falls chiefly upon the
 working-class, that the general average is improved by the smaller
@@ -3476,7 +3476,7 @@ that the mortality in the _houses_ of the second class is 31 per cent
 greater, and in the third class 78 per cent. greater than in those of the
 first class; that the mortality is those bad streets which were improved,
 decreased 25 per cent.  He closes with the remark, very frank for an
-English bourgeois: {107}
+English bourgeois: {10  
 
    "When we find the rate of mortality four times as high in some streets
    as in others, and twice as high in whole classes of streets as in
@@ -3504,7 +3504,7 @@ Manchester, according to the report last quoted, more than fifty-seven
 per cent. of the children of the working-class perish before the fifth
 year, while but twenty per cent. of the children of the higher classes,
 and not quite thirty-two per cent. of the children of all classes in the
-country die under five years of age. {108a}  The article of the
+country die under five years of age. {108    The article of the
 _Artisan_, already several times referred to, furnishes exacter
 information on this point, by comparing the city death-rate in single
 diseases of children with the country death-rate, thus demonstrating
@@ -3516,7 +3516,7 @@ affections of the lungs in cities are to those in the country as 2.5 to
 among small children, are four times more frequent; those of water on the
 brain are trebled, and convulsions ten times more frequent.  To quote
 another acknowledged authority, I append the following table.  Out of
-10,000 persons, there die--{108b}
+10,000 persons, there die--{108  
 
              Under  5-19   20-39   40-59   60-69   70-79  80-89  90-99  100 x
              5 years
@@ -3677,18 +3677,18 @@ does not embrace mill-work proper:
    how much four farthings make.  A youth of seventeen asserted that four
    farthings are four half pence; a third, seventeen years old, answered
    several very simple questions with the brief statement, that he 'was
-   ne jedge o' nothin'.'" {112a}  These children who are crammed with
+   ne jedge o' nothin'.'" {112    These children who are crammed with
    religious doctrines four or five years at a stretch, know as little at
    the end as at the beginning.  One child "went to Sunday school
    regularly for five years; does not know who Jesus Christ is, but had
    heard the name; had never heard of the twelve Apostles, Samson, Moses,
-   Aaron, etc." {112b}  Another "attended Sunday school regularly six
+   Aaron, etc." {112    Another "attended Sunday school regularly six
    years; knows who Jesus Christ was; he died on the Cross to save our
-   Saviour; had never heard of St. Peter or St. Paul." {113a}  A third,
+   Saviour; had never heard of St. Peter or St. Paul." {113    A third,
    "attended different Sunday schools seven years; can read only the
    thin, easy books with simple words of one syllable; has heard of the
    Apostles, but does not know whether St. Peter was one or St. John; the
-   latter must have been St. John Wesley." {113b}  To the question who
+   latter must have been St. John Wesley." {113    To the question who
    Christ was, Horne received the following answers among others: "He was
    Adam," "He was an Apostle," "He was the Saviour's Lord's Son," and
    from a youth of sixteen: "He was a king of London long ago."  In
@@ -3698,7 +3698,7 @@ does not embrace mill-work proper:
    After he had asked them all one after the other about the Apostles
    without securing a single correct answer, one sly-looking little
    fellow, with great glee, called out: "I know, mister; they were the
-   lepers!" {113c}  From the pottery districts and from Lancashire the
+   lepers!" {113    From the pottery districts and from Lancashire the
    reports are similar.
 
 This is what the bourgeoisie and the State are doing for the education
@@ -3777,11 +3777,11 @@ respects the sacredness and power of the earthly God.  And when the
 poverty of the proletarian is intensified to the point of actual lack of
 the barest necessaries of life, to want and hunger, the temptation to
 disregard all social order does but gain power.  This the bourgeoisie for
-the most part recognises.  Symonds {115a} observes that poverty exercises
+the most part recognises.  Symonds {115   observes that poverty exercises
 the same ruinous influence upon the mind which drunkenness exercises upon
 the body; and Dr. Alison explains to property-holding readers, with the
 greatest exactness, what the consequences of social oppression must be
-for the working-class. {115b}  Want leaves the working-man the choice
+for the working-class. {115    Want leaves the working-man the choice
 between starving slowly, killing himself speedily, or taking what he
 needs where he finds it--in plain English, stealing.  And there is no
 cause for surprise that most of them prefer stealing to starvation and
@@ -3817,7 +3817,7 @@ combinations of circumstances, and must count himself fortunate when he
 has saved his life even for a short time; and his character and way of
 living are naturally shaped by these conditions.  Either he seeks to keep
 his head above water in this whirlpool, to rescue his manhood, and this
-he can do solely in rebellion {116} against the class which plunders him
+he can do solely in rebellion {11   against the class which plunders him
 so mercilessly and then abandons him to his fate, which strives to hold
 him in this position so demoralising to a human being; or he gives up the
 struggle against his fate as hopeless, and strives to profit, so far as
@@ -3834,7 +3834,7 @@ instead of laying up treasures which are of no lasting use to them, and
 which in the end moth and rust (_i.e_., the bourgeoisie) get possession
 of.  Yet such a life is demoralising beyond all others.  What Carlyle
 says of the cotton spinners is true of all English industrial workers:
-{117a}
+{117  
 
    "Their trade, now in plethoric prosperity, anon extenuated into
    inanition and 'short time,' is of the nature of gambling; they live by
@@ -3852,7 +3852,7 @@ says of the cotton spinners is true of all English industrial workers:
    fumes, cotton fuz, gin riot, wrath and toil, created by a Demon,
    governed by a Demon?"
 
-And elsewhere: {117b}
+And elsewhere: {117  
 
    "Injustice, infidelity to truth and fact and Nature's order, being
    properly the one evil under the sun, and the feeling of injustice the
@@ -3901,7 +3901,7 @@ first weeks if he has the least human feeling left.  The division of
 labour has multiplied the brutalising influences of forced work.  In most
 branches the worker's activity is reduced to some paltry, purely
 mechanical manipulation, repeated minute after minute, unchanged year
-after year. {119}  How much human feeling, what abilities can a man
+after year. {11    How much human feeling, what abilities can a man
 retain in his thirtieth year, who has made needle points or filed toothed
 wheels twelve hours every day from his early childhood, living all the
 time under the conditions forced upon the English proletarian?  It is
@@ -3944,7 +3944,7 @@ secure a more rapid and certain development for evils already existing in
 the germ.  Alison is humane enough to admit this; he is no thoroughbred
 Liberal manufacturer, but only a half developed Tory bourgeois, and he
 has, therefore, an open eye, now and then, where the full-fledged
-bourgeois is still stone blind.  Let us hear him: {120}
+bourgeois is still stone blind.  Let us hear him: {12  
 
    "It is in the great cities that vice has spread her temptations, and
    pleasure her seductions, and folly her allurements; that guilt is
@@ -3999,7 +3999,7 @@ And elsewhere:
 Enough!  The half-bourgeois Alison betrays to us, however narrow his
 manner of expressing himself, the evil effect of the great cities upon
 the moral development of the workers.  Another, a bourgeois _pur sang_, a
-man after the heart of the Anti-Corn Law League, Dr. Andrew Ure, {122}
+man after the heart of the Anti-Corn Law League, Dr. Andrew Ure, {12  
 betrays the other side.  He tells us that life in great cities
 facilitates cabals among the workers and confers power on the Plebs.  If
 here the workers are not educated (_i.e_., to obedience to the
@@ -4101,7 +4101,7 @@ accustomed to turn almost exclusively to the workers, and that, in
 general, more is done by the workers than by the bourgeoisie for the
 maintenance of the poor.  This fact, which any one may prove for himself
 any day, is confirmed, among others, by Dr. Parkinson, Canon of
-Manchester, who says: {125}
+Manchester, who says: {12  
 
    "The poor give one another more than the rich give the poor.  I can
    confirm my statement by the testimony of one of our eldest, most
@@ -4312,8 +4312,8 @@ France, as 1: 1,804, was in England, when Gaskell wrote, as 1: 799.  The
 proportion of offences against persons to the population is, in the
 Netherlands, 1: 28,904; in France, 1: 17,573; in England, 1: 23,395; that
 of crimes in general to the population in the agricultural districts, as
-1: 1,043; in the manufacturing districts as 1: 840. {131a}  In the whole
-of England to-day the proportion is 1: 660; {131b} though it is scarcely
+1: 1,043; in the manufacturing districts as 1: 840. {131    In the whole
+of England to-day the proportion is 1: 660; {131   though it is scarcely
 ten years since Gaskell's book appeared!
 
 These facts are certainly more than sufficient to bring any one, even a
@@ -4399,7 +4399,7 @@ working up the textile materials were first torn from their former way of
 life.  It is, therefore, not surprising that the progress of mechanical
 invention in later years also affected precisely these workers most
 deeply and permanently.  The history of cotton manufacture as related by
-Ure, {134a} Baines, {134b} and others is the story of improvements in
+Ure, {134   Baines, {134   and others is the story of improvements in
 every direction, most of which have become domesticated in the other
 branches of industry as well.  Hand-work is superseded by machine-work
 almost universally, nearly all manipulations are conducted by the aid of
@@ -4429,7 +4429,7 @@ two adult spinners and a part of the piecers whom they employed were
 thrown out.  And since self-acting mules have been introduced into a very
 large number of spinning-mills, the spinners' work is wholly performed by
 the machine.  There lies before me a book from the pen of James Leach,
-{135} one of the recognised leaders of the Chartists in Manchester.  The
+{13   one of the recognised leaders of the Chartists in Manchester.  The
 author has worked for years in various branches of industry, in mills and
 coal mines, and is known to me personally as an honest, trustworthy, and
 capable man.  In consequence of his political position, he had at command
@@ -4465,7 +4465,7 @@ The bourgeoisie usually replies to this, that improvements in machinery,
 by decreasing the cost of production, supply finished goods at lower
 prices, and that these reduced prices cause such an increase in
 consumption that the unemployed operatives soon find full employment in
-newly-founded factories. {136}  The bourgeoisie is so far correct that
+newly-founded factories. {13    The bourgeoisie is so far correct that
 under certain conditions favourable for the general development of
 manufacture, every reduction in price of goods _in which the raw material
 is cheap_, greatly increases consumption, and gives rise to the building
@@ -4533,7 +4533,7 @@ share in the gain.  The bourgeois forgets, in fighting the working-man,
 the most ordinary principles of his own Political Economy.  He who at
 other times swears by Malthus, cries out in his anxiety before the
 workers: "Where could the millions by which the population of England has
-increased find work, without the improvements in machinery?" {138}  As
+increased find work, without the improvements in machinery?" {13    As
 though the bourgeois did not know well enough that without machinery and
 the expansion of industry which it produced, these "millions" would never
 have been brought into the world and grown up!  The service which
@@ -4595,7 +4595,7 @@ first to suffer from every crisis, and last to be relieved from it, must
 serve the bourgeoisie as a handle in meeting attacks upon the factory
 system.  "See," cries the bourgeois, triumphantly, "see how these poor
 creatures must famish, while the mill operatives are thriving, and _then_
-judge the factory {140} system!"  As though it were not precisely the
+judge the factory {14   system!"  As though it were not precisely the
 factory system and the machinery belonging to it which had so shamefully
 crushed the hand-loom weavers, and as though the bourgeoisie did not know
 this quite as well as ourselves!  But the bourgeoisie has interests at
@@ -4617,7 +4617,7 @@ places.  In the spinning-mills women and girls are to be found in almost
 exclusive possession of the throstles; among the mules one man, an adult
 spinner (with self-actors, he, too, becomes superfluous), and several
 piecers for tying the threads, usually children or women, sometimes young
-men of from eighteen to twenty years, here and there an old spinner {141}
+men of from eighteen to twenty years, here and there an old spinner {14  
 thrown out of other employment.  At the power-looms women, from fifteen
 to twenty years, are chiefly employed, and a few men; these, however,
 rarely remain at this trade after their twenty-first year.  Among the
@@ -4668,9 +4668,9 @@ elsewhere, what becomes of the children?  They grow up like wild weeds;
 they are put out to nurse for a shilling or eighteenpence a week, and how
 they are treated may be imagined.  Hence the accidents to which little
 children fall victims multiply in the factory districts to a terrible
-extent.  The lists of the Coroner of Manchester {143a} showed for nine
+extent.  The lists of the Coroner of Manchester {143   showed for nine
 months: 69 deaths from burning, 56 from drowning, 23 from falling, 77
-from other causes, or a total of 225 {143b} deaths from accidents, while
+from other causes, or a total of 225 {143   deaths from accidents, while
 in non-manufacturing Liverpool during twelve months there were but 146
 fatal accidents.  The mining accidents are excluded in both cases; and
 since the Coroner of Manchester has no authority in Salford, the
@@ -4712,7 +4712,7 @@ the family is brought about by the employment of the children.  When they
 get on far enough to earn more than they cost their parents from week to
 week, they begin to pay the parents a fixed sum for board and lodging,
 and keep the rest for themselves.  This often happens from the fourteenth
-or fifteenth year. {144}  In a word, the children emancipate themselves,
+or fifteenth year. {14    In a word, the children emancipate themselves,
 and regard the paternal dwelling as a lodging-house, which they often
 exchange for another, as suits them.
 
@@ -4726,7 +4726,7 @@ within the family, while the other social conditions remain unchanged.
 There lies before me a letter from an English working-man, Robert
 Pounder, Baron's Buildings, Woodhouse, Moorside, in Leeds (the
 bourgeoisie may hunt him up there; I give the exact address for the
-purpose), written by him to Oastler: {145}
+purpose), written by him to Oastler: {14  
 
 He relates how another working-man, being on tramp, came to St. Helens,
 in Lancashire, and there looked up an old friend.  He found him in a
@@ -4790,12 +4790,12 @@ family of our present society is being thus dissolved, this dissolution
 merely shows that, at bottom, the binding tie of this family was not
 family affection, but private interest lurking under the cloak of a
 pretended community of possessions.  The same relation exists on the part
-of those children who support unemployed parents {147a} when they do not
+of those children who support unemployed parents {147   when they do not
 directly pay board as already referred to.  Dr. Hawkins testified in the
 Factories' Inquiry Commission's Report that this relation is common
 enough, and in Manchester it is notorious.  In this case the children are
 the masters in the house, as the wife was in the former case, and Lord
-Ashley gives an example of this in his speech: {147b} A man berated his
+Ashley gives an example of this in his speech: {147   A man berated his
 two daughters for going to the public house, and they answered that they
 were tired of being ordered about, saying, "Damn you, we have to keep
 you!"  Determined to keep the proceeds of their work for themselves, they
@@ -4810,7 +4810,7 @@ unacquainted with the most ordinary duties of a housekeeper, and when
 they have young children to take care of, have not the vaguest idea how
 to set about it.  The Factories' Inquiry Commission's Report gives dozens
 of examples of this, and Dr. Hawkins, Commissioner for Lancashire,
-expresses his opinion as follows: {147c}
+expresses his opinion as follows: {147  
 
    "The girls marry early and recklessly; they have neither means, time,
    nor opportunity to learn the ordinary duties of household life; but if
@@ -4824,7 +4824,7 @@ expresses his opinion as follows: {147c}
    attractive.  For these and other reasons, and especially for the sake
    of the better chances of life for the little children, I can but wish
    and hope that a time may come in which married women will be shut out
-   of the factories." {148a}
+   of the factories." {148  
 
 But that is the least of the evil.  The moral consequences of the
 employment of women in factories are even worse.  The collecting of
@@ -4838,7 +4838,7 @@ persons of dissolute character, upon the more moral, and especially upon
 the younger ones, he cannot ascertain, and consequently cannot prevent.
 But precisely this influence is the most injurious.  The language used in
 the mills is characterised by many witnesses in the report of 1833, as
-"indecent," "bad," "filthy," etc. {148b}  It is the same process upon a
+"indecent," "bad," "filthy," etc. {148    It is the same process upon a
 small scale which we have already witnessed upon a large one in the great
 cities.  The centralisation of population has the same influence upon the
 same persons, whether it affects them in a great city or a small factory.
@@ -4847,12 +4847,12 @@ contact; and the consequences are not wanting.  A witness in Leicester
 said that he would rather let his daughter beg than go into a factory;
 that they are perfect gates of hell; that most of the prostitutes of the
 town had their employment in the mills to thank for their present
-situation. {148c}  Another, in Manchester, "did not hesitate to assert
+situation. {148    Another, in Manchester, "did not hesitate to assert
 that three-fourths of the young factory employees, from fourteen to
-twenty years of age, were unchaste." {149a}  Commissioner Cowell
+twenty years of age, were unchaste." {149    Commissioner Cowell
 expresses it as his opinion, that the morality of the factory operatives
 is somewhat below the average of that of the working-class in general.
-{149b}  And Dr. Hawkins {149c} says:
+{149    And Dr. Hawkins {149   says:
 
    "An estimate of sexual morality cannot readily be reduced to figures;
    but if I may trust my own observations and the general opinion of
@@ -4945,7 +4945,7 @@ manufacturers permitted overlookers to flog and maltreat children, and
 often took an active part in so doing themselves.  One case is related of
 a Scotch manufacturer, who rode after a sixteen years old runaway, forced
 him to return running after the employer as fast as the master's horse
-trotted, and beat him the whole way with a long whip. {151}  In the large
+trotted, and beat him the whole way with a long whip. {15    In the large
 towns where the operatives resisted more vigorously, such things
 naturally happened less often.  But even this long working-day failed to
 satisfy the greed of the capitalists.  Their aim was to make the capital
@@ -4961,7 +4961,7 @@ cannot be made good by any amount of sleep during the day.  Irritation of
 the whole nervous system, with general lassitude and enfeeblement of the
 entire frame, were the inevitable results, with the fostering of
 temptation to drunkenness and unbridled sexual indulgence.  One
-manufacturer testifies {152a} that during the two years in which night-
+manufacturer testifies {152   that during the two years in which night-
 work was carried on in his factory, the number of illegitimate children
 born was doubled, and such general demoralisation prevailed that he was
 obliged to give up night-work.  Other manufacturers were yet more
@@ -4979,7 +4979,7 @@ enough.  The Commissioners mention a crowd of cripples who appeared
 before them, who clearly owed their distortion to the long working-hours.
 This distortion usually consists of a curving of the spinal column and
 legs, and is described as follows by Francis Sharp, M.R.C.S., of Leeds:
-{152b}
+{152  
 
    "I never saw the peculiar bending of the lower ends of the thigh bones
    before I came to Leeds.  At first I thought it was rachitis, but I was
@@ -4997,7 +4997,7 @@ legs, and is described as follows by Francis Sharp, M.R.C.S., of Leeds:
    standing, was not less than three hundred."
 
 Precisely similar is the testimony of Dr. Ray, for eighteen years
-physician in the hospital in Leeds: {153a}
+physician in the hospital in Leeds: {153  
 
    "Malformations of the spine are very frequent among mill-hands; some
    of them consequent upon mere overwork, others the effect of long work
@@ -5012,7 +5012,7 @@ physician in the hospital in Leeds: {153a}
 Surgeons Beaumont and Sharp, of Bradford, bear the same testimony.  The
 reports of Drinkwater, Power, and Dr. Loudon contain a multitude of
 examples of such distortions, and those of Tufnell and Sir David Barry,
-which are less directed to this point, give single examples. {153b}  The
+which are less directed to this point, give single examples. {153    The
 Commissioners for Lancashire, Cowell, Tufnell, and Hawkins, have almost
 wholly neglected this aspect of the physiological results of the factory
 system, though this district rivals Yorkshire in the number of cripples.
@@ -5042,8 +5042,8 @@ the silk-twisting mills.  One boy is mentioned so crippled as not to be
 able to go upstairs, and girls deformed in back and hips.
 
 Other deformities also have proceeded from this overwork, especially
-flattening of the foot, which Sir D. Barry {154a} frequently observed, as
-did the physicians and surgeons in Leeds. {154b}  In cases, in which a
+flattening of the foot, which Sir D. Barry {154   frequently observed, as
+did the physicians and surgeons in Leeds. {154    In cases, in which a
 stronger constitution, better food, and other more favourable
 circumstances enabled the young operative to resist this effect of a
 barbarous exploitation, we find, at least, pain in the back, hips, and
@@ -5074,7 +5074,7 @@ for the bourgeois, and has small interest in doing his work well, he
 would probably use the seats more than would be agreeable and profitable
 to the manufacturer; and in order that somewhat less raw material may be
 spoiled for the bourgeois, the operative must sacrifice health and
-strength. {155}  This long protracted upright position, with the bad
+strength. {15    This long protracted upright position, with the bad
 atmosphere prevalent in the mills, entails, besides the deformities
 mentioned, a marked relaxation of all vital energies, and, in
 consequence, all sorts of other affections general rather than local.  The
@@ -5102,7 +5102,7 @@ air recreation, it is impossible to wonder at the almost unanimous
 testimony of the physicians in the Factories' Report, that they find a
 great lack of ability to resist disease, a general depression in vital
 activity, a constant relaxation of the mental and physical powers.  Let
-us hear Sir D. Barry first: {156}
+us hear Sir D. Barry first: {15  
 
    "The unfavourable influences of mill-work upon the hands are the
    following: (1) The inevitable necessity of forcing their mental and
@@ -5127,7 +5127,7 @@ us hear Sir D. Barry first: {156}
    females bear this work far better."  (Very naturally.  But we shall
    see that they have their own diseases.)
 
-So, too, Power: {157a}
+So, too, Power: {157  
 
    "I can bear witness that the factory system in Bradford has engendered
    a multitude of cripples, and that the effect of long continued labour
@@ -5135,7 +5135,7 @@ So, too, Power: {157a}
    also, and much more generally, in stunted growth, relaxation of the
    muscles, and delicacy of the whole frame."
 
-So, too, F. Sharp, in Leeds, the surgeon {157b} already quoted:
+So, too, F. Sharp, in Leeds, the surgeon {157   already quoted:
 
    "When I moved from Scarborough to Leeds, I was at once struck by the
    fact that the general appearance of the children was much paler, and
@@ -5223,7 +5223,7 @@ pounds, and 20 not employed in mills, 117.7 pounds.  One of the largest
 manufacturers of Manchester, leader of the opposition against the working-
 men, I think Robert Hyde Greg himself, said, on one occasion, that if
 things went on as at present, the operatives of Lancashire would soon be
-a race of pigmies. {159a}  A recruiting officer {159b} testified that
+a race of pigmies. {159    A recruiting officer {159   testified that
 operatives are little adapted for military service, looked thin and
 nervous, and were frequently rejected by the surgeons as unfit.  In
 Manchester he could hardly get men of five feet eight inches; they were
@@ -5257,8 +5257,8 @@ the report of 1833:
    older hands as to their ages; they age so very early."
 
 Surgeon Smellie, of Glasgow, who treated operatives chiefly, says that
-forty years is old age for them. {160a}  And similar evidence may be
-found elsewhere. {160b}  In Manchester, this premature old age among the
+forty years is old age for them. {160    And similar evidence may be
+found elsewhere. {160    In Manchester, this premature old age among the
 operatives is so universal that almost every man of forty would be taken
 for ten to fifteen years older, while the prosperous classes, men as well
 as women, preserve their appearance exceedingly well if they do not drink
@@ -5279,7 +5279,7 @@ column.
 
 That factory operatives undergo more difficult confinement than other
 women is testified to by several midwives and accoucheurs, and also that
-they are more liable to miscarriage. {161}  Moreover, they suffer from
+they are more liable to miscarriage. {16    Moreover, they suffer from
 the general enfeeblement common to all operatives, and, when pregnant,
 continue to work in the factory up to the hour of delivery, because
 otherwise they lose their wages and are made to fear that they may be
@@ -5304,13 +5304,13 @@ not brook that his employees stay at home by reason of illness; they must
 not be ill, they must not venture to lie still through a long
 confinement, or he must stop his machinery or trouble his supreme head
 with a temporary change of arrangements, and rather than do this, he
-discharges his people when they begin to be ill.  Listen: {162a}
+discharges his people when they begin to be ill.  Listen: {162  
 
    "A girl feels very ill, can scarcely do her work.  Why does she not
    ask permission to go home?  Ah! the master is very particular, and if
    we are away half a day, we risk being sent away altogether."
 
-Or Sir D. Barry: {162b}
+Or Sir D. Barry: {162  
 
    "Thomas McDurt, workman, has slight fever.  Cannot stay at home longer
    than four days, because he would fear of losing his place."
@@ -5329,9 +5329,9 @@ of age.  In such cases, the influence of the warmth of the factories is
 the same as that of a tropical climate, and, as in such climates, the
 abnormally early development revenges itself by correspondingly premature
 age and debility.  On the other hand, retarded development of the female
-constitution occurs, the breasts mature late or not at all. {162c}
+constitution occurs, the breasts mature late or not at all. {162  
 Menstruation first appears in the seventeenth or Eighteenth, sometimes in
-the twentieth year, and is often wholly wanting. {163a}  Irregular
+the twentieth year, and is often wholly wanting. {163    Irregular
 menstruation, coupled with great pain and numerous affections, especially
 with anaemia, is very frequent, as the medical reports unanimously state.
 
@@ -5358,7 +5358,7 @@ choice.  He must take the room in which he finds work, whether his chest
 is sound or not.  The most common effects of this breathing of dust are
 blood-spitting, hard, noisy breathing, pains in the chest, coughs,
 sleeplessness--in short, all the symptoms of asthma ending in the worst
-cases in consumption. {163b}  Especially unwholesome is the wet spinning
+cases in consumption. {163    Especially unwholesome is the wet spinning
 of linen-yarn which is carried on by young girls and boys.  The water
 spirts over them from the spindle, so that the front of their clothing is
 constantly wet through to the skin; and there is always water standing on
@@ -5465,7 +5465,7 @@ men enfeebled, limbs crushed, whole generations wrecked, afflicted with
 disease and infirmity, purely to fill the purses of the bourgeoisie.  And
 when one reads of the barbarism of single cases, how children are seized
 naked in bed by the overlookers, and driven with blows and kicks to the
-factory, their clothing over their arms, {167a} how their sleepiness is
+factory, their clothing over their arms, {167   how their sleepiness is
 driven off with blows, how they fall asleep over their work nevertheless,
 how one poor child sprang up, still asleep, at the call of the
 overlooker, and mechanically went through the operations of its work
@@ -5487,7 +5487,7 @@ wrath and resentment against a class which boasts of philanthropy and
 self-sacrifice, while its one object is to fill its purse _a tout prix_?
 Meanwhile, let us listen to the bourgeoisie speaking through the mouth of
 its chosen apostle, Dr. Ure, who relates in his "Philosophy of
-Manufactures" {167b} that the workers have been told that their wages
+Manufactures" {167   that the workers have been told that their wages
 bore no proportion to their sacrifices, the good understanding between
 masters and men being thus disturbed.  Instead of this, the working-men
 should have striven to recommend themselves by attention and industry,
@@ -5499,18 +5499,18 @@ same time the demand for their companions' labour in the market!"
    "Had it not been for the violent collisions and interruptions
    resulting from erroneous views among the operatives, the factory
    system would have been developed still more rapidly and beneficially."
-   {168a}
+   {168  
 
 Hereupon follows a long Jeremiad upon the spirit of resistance of the
 operatives, and on the occasion of a strike of the best paid workers, the
-fine spinners, the following naive observation: {168b}
+fine spinners, the following naive observation: {168  
 
    "In fact, it was their high wages which enabled them to maintain a
    stipendiary committee in affluence, and to pamper themselves into
    nervous ailments, by a diet too rich and exciting for their indoor
    employments."
 
-Let us hear how the bourgeois describes the work of children: {168c}
+Let us hear how the bourgeois describes the work of children: {168  
 
    "I have visited many factories, both in Manchester and in the
    surrounding districts, during a period of several months, entering the
@@ -5563,7 +5563,7 @@ with their steadily improving condition in the factory and in Sunday
 school.  Under the mask of philanthropy, this law intensifies the
 sufferings of the poor, and will greatly restrict the conscientious
 manufacturer in his useful work, if, indeed, it does not wholly stop him.
-{169}
+{16  
 
 The ruinous influence of the factory system began at an early day to
 attract general attention.  We have already alluded to the Apprentices'
@@ -5715,7 +5715,7 @@ brisk, they are under great temptation in this respect.
 Meanwhile the agitation for the Ten Hours' Bill by no means died out
 among the operatives; in 1839 it was under full headway once more, and
 Sadler's place, he having died, was filled in the House of Commons by
-Lord Ashley {174} and Richard Oastler, both Tories.  Oastler especially,
+Lord Ashley {17   and Richard Oastler, both Tories.  Oastler especially,
 who carried on a constant agitation in the factory districts, and had
 been active in the same way during Sadler's life, was the particular
 favourite of the working-men.  They called him their "good old king,"
@@ -5781,7 +5781,7 @@ workers, and proved most brilliantly the Chartists' assertion of the
 necessity of its reform.  Three members, who had formerly voted against
 the ministry, afterwards voted for it and rescued it.  In all the
 divisions, the bulk of the opposition voted _for_ and the bulk of its own
-party _against_ the ministry. {176}  The foregoing propositions of Graham
+party _against_ the ministry. {17    The foregoing propositions of Graham
 touching the employment of children six and one-half and of all other
 operatives twelve hours are now legislative provisions, and by them and
 by the limitation of overwork for making up time lost through breakdown
@@ -5841,7 +5841,7 @@ lassitude is added to them, and when the influences already mentioned
 which tempt every working-man to demoralisation, make themselves felt
 here too!  There is no cause for surprise, therefore, that in the
 manufacturing towns especially, drunkenness and sexual excesses have
-reached the pitch which I have already described. {178}
+reached the pitch which I have already described. {17  
 
 Further, the slavery in which the bourgeoisie holds the proletariat
 chained, is nowhere more conspicuous than in the factory system.  Here
@@ -5869,7 +5869,7 @@ operatives of Kennedy's mill, in Manchester struck.  Kennedy prosecuted
 them on the strength of a regulation placarded in the mill, that at no
 time more than two operatives in one room may quit work at once.  And the
 court decided in his favour, giving the working-men the explanation cited
-above. {179a}  And such rules as these usually are!  For instance: 1.  The
+above. {179    And such rules as these usually are!  For instance: 1.  The
 doors are closed ten minutes after work begins, and thereafter no one is
 admitted until the breakfast hour; whoever is absent during this time
 forfeits 3d. per loom. 2.  Every power-loom weaver detected absenting
@@ -5882,7 +5882,7 @@ panes, etc., must be paid for by the weaver. 5.  No weaver to stop work
 without giving a week's notice.  The manufacturer may dismiss any
 employee without notice for bad work or improper behaviour. 6.  Every
 operative detected speaking to another, singing or whistling, will be
-fined 6d.; for leaving his place during working-hours, 6d. {179b}  Another
+fined 6d.; for leaving his place during working-hours, 6d. {179    Another
 copy of factory regulations lies before me, according to which every
 operative who comes three minutes too late, forfeits the wages for a
 quarter of an hour, and every one who comes twenty minutes too late, for
@@ -5926,7 +5926,7 @@ work went well, so that the number was reached before the usual working-
 hours were ended, the operatives were forced to toil on to the end of the
 twelfth hour.  The witness adds that he had known girls who had good
 work, and who had worked overtime, who, nevertheless, betook themselves
-to a life of prostitution rather than submit to this tyranny. {181a}  To
+to a life of prostitution rather than submit to this tyranny. {181    To
 return to the fines, Leach relates having repeatedly seen women in the
 last period of pregnancy fined 6d. for the offence of sitting down a
 moment to rest.  Fines for bad work are wholly arbitrary; the goods are
@@ -5937,7 +5937,7 @@ been sold, or certainly been placed beyond his reach.  Leach has in his
 possession such a fines list, ten feet long, and amounting to 35 pounds
 17s. 10d.  He relates that in the factory where this list was made, a new
 supervisor was dismissed for fining too little, and so bringing in five
-pounds too little weekly. {181b}  And I repeat that I know Leach to be a
+pounds too little weekly. {181    And I repeat that I know Leach to be a
 thoroughly trustworthy man incapable of a falsehood.
 
 But the operative is his employer's slave in still other respects.  If
@@ -6040,7 +6040,7 @@ higher rent than the ordinary one, or even to pay rent for houses in
 which they do not live!  The _Halifax Guardian_, quoted by the Liberal
 _Sun_, asserts that hundreds of operatives in Ashton-under-Lyne, Oldham,
 and Rochdale, etc., are forced by their employers to pay house-rent
-whether they occupy the house or not. {184}  The cottage system is
+whether they occupy the house or not. {18    The cottage system is
 universal in the country districts; it has created whole villages, and
 the manufacturer usually has little or no competition against his houses,
 so that he can fix his price regardless of any market rate, indeed at his
@@ -6097,7 +6097,7 @@ the right to freedom, at least in outward form; bows before a freedom-
 loving public opinion, and herein lies the historic progress as compared
 with the old servitude, that the _principle_ of freedom is affirmed, and
 the oppressed will one day see to it that this principle is carried out.
-{186}
+{18  
 
 
 
@@ -6136,7 +6136,7 @@ symptoms of a scrofulous constitution, and the manufacturers usually
 refuse to employ girls who have worked in this way as being too weak.  The
 condition of these children is characterised as "a disgrace to a
 Christian country," and the wish expressed for legislative interference.
-The Factory Report {189} adds that the stocking weavers are the worst
+The Factory Report {18   adds that the stocking weavers are the worst
 paid workers in Leicester, earning six, or with great effort, seven
 shillings a week, for sixteen to eighteen hours' daily work.  Formerly
 they earned twenty to twenty-one shillings, but the introduction of
@@ -6247,11 +6247,11 @@ pains in the head, sides, back, and hips, palpitation of the heart,
 nausea, vomiting and want of appetite, curvature of the spine, scrofula,
 and consumption.  The health of the female lacemakers especially, is
 constantly and deeply undermined; complaints are universal of anaemia,
-difficult childbirth, and miscarriage. {192a}  The same subordinate
+difficult childbirth, and miscarriage. {192    The same subordinate
 official of the Children's Employment Commission reports further that the
 children are very often ill-clothed and ragged, and receive insufficient
 food, usually only bread and tea, often no meat for months together.  As
-to their moral condition, he reports: {192b}
+to their moral condition, he reports: {192  
 
    "All the inhabitants of Nottingham, the police, the clergy, the
    manufacturers, the working-people, and the parents of the children are
@@ -6280,7 +6280,7 @@ suffering the severest forms of digestive disorders, brought on by
 sedentary work in a bad atmosphere.  They are almost wholly without
 education, least of all do they receive moral training.  They love
 finery, and in consequence of these two influences their moral condition
-is most deplorable, and prostitution almost epidemic among them. {193}
+is most deplorable, and prostitution almost epidemic among them. {19  
 
 This is the price at which society purchases for the fine ladies of the
 bourgeoisie the pleasure of wearing lace; a reasonable price truly!  Only
@@ -6315,7 +6315,7 @@ improvement, the number of hand-printers is far too great for the
 available quantity of work, and many of them are therefore starving; the
 petition puts the number at one-quarter of the whole, while the rest are
 employed but one or two, in the best case three days in the week, and are
-ill-paid.  Leach {194} asserts of one print-work (Deeply Dale, near Bury,
+ill-paid.  Leach {19   asserts of one print-work (Deeply Dale, near Bury,
 in Lancashire), that the hand-printers did not earn on an average more
 than five shillings, though he knows that the machine-printers were
 pretty well paid.  The print-works are thus wholly affiliated with the
@@ -6366,7 +6366,7 @@ he could remember a time when he had received 8d. a yard for work, for
 which he now received 1d.; true, he can cut the more regular texture more
 quickly than the old, but he can by no means do twice as much in an hour
 as formerly, so that his wages have sunk to less than a quarter of what
-they were.  Leach {196} gives a list of wages paid in 1827 and in 1843
+they were.  Leach {19   gives a list of wages paid in 1827 and in 1843
 for various goods, from which it appears that articles paid in 1827 at
 the rates of 4d., 2.25d., 2.75d., and 1d. per yard, were paid in 1843 at
 the rate of 1.5d., 1d., .75d., and 0.375d. per yard, cutters' wages.  The
@@ -6416,7 +6416,7 @@ you entered upon a contract, and you must abide by it."  The case is the
 same as that of the factory operatives.  Besides, the employer obliges
 the workman to sign a document in which he declares that he agrees to the
 deductions made.  And if a workman rebels, all the manufacturers in the
-town know at once that he is a man who, as Leach says, {197} "resists the
+town know at once that he is a man who, as Leach says, {19   "resists the
 lawful order as established by weavers' cards, and, moreover, has the
 impudence to doubt the wisdom of those who are, as he ought to know, his
 superiors in society."
@@ -6476,7 +6476,7 @@ are, however, numerous larger factories belonging to capitalists; and in
 these the factory system reigns supreme.  The division of labour, which
 is here carried out to the last detail (in the needle industry, for
 example), and the use of steam-power, admit of the employment of a great
-multitude of women and children, and we find here {199} precisely the
+multitude of women and children, and we find here {19   precisely the
 same features reappearing which the Factories' Report presented,--the
 work of women up to the hour of confinement, incapacity as housekeepers,
 neglect of home and children, indifference, actual dislike to family
@@ -6501,7 +6501,7 @@ assertion of a recruiting sergeant, the people of Birmingham are smaller
 than those anywhere else, being usually 5 feet 4 to 5 inches tall; out of
 613 recruits, but 238 were found fit for service.  As to education, a
 series of depositions and specimens taken from the metal districts have
-already been given, {200a} to which the reader is referred.  It appears
+already been given, {200   to which the reader is referred.  It appears
 further, from the Children's Employment Commission's Report, that in
 Birmingham more than half the children between five and fifteen years
 attend no school whatsoever, that those who do are constantly changing,
@@ -6518,7 +6518,7 @@ all the criminals are children under fifteen, and in a single year ninety
 ten-years'-old offenders, among them forty-four serious criminal cases,
 were sentenced.  Unbridled sexual intercourse seems, according to the
 opinion of the commissioner, almost universal, and that at a very early
-age. {200b}
+age. {200  
 
 In the iron district of Staffordshire the state of things is still worse.
 For the coarse wares made here neither much division of labour (with
@@ -6578,7 +6578,7 @@ and were beaten so that they felt it several days afterwards.  They knew
 nothing of a different kind of life than that in which they toil from
 morning until they are allowed to stop at night, and did not even
 understand the question never heard before, whether they were tired.
-{202}
+{20  
 
 In Sheffield wages are better, and the external state of the workers
 also.  On the other hand, certain branches of work are to be noticed
@@ -6595,7 +6595,7 @@ posture, in which chest and stomach are cramped; but especially in the
 quantity of sharp-edged metal dust particles freed in the cutting, which
 fill the atmosphere, and are necessarily inhaled.  The dry grinders'
 average life is hardly thirty-five years, the wet grinders' rarely
-exceeds forty-five.  Dr. Knight, in Sheffield, says: {203}
+exceeds forty-five.  Dr. Knight, in Sheffield, says: {20  
 
    "I can convey some idea of the injuriousness of this occupation only
    by asserting that the hardest drinkers among the grinders are the
@@ -6668,7 +6668,7 @@ savage and desperate sort are of common occurrence; one year before the
 commissioner's visit, a band, consisting chiefly of young persons, was
 arrested when about to set fire to the town, being fully equipped with
 lances and inflammable substances.  We shall see later that the labour
-movement in Sheffield has this same savage character. {205}
+movement in Sheffield has this same savage character. {20  
 
 Besides these two main centres of the metal industry, there are needle
 factories in Warrington, Lancashire, where great want, immorality, and
@@ -6746,7 +6746,7 @@ three-fourths of the children examined by the commissioner could neither
 read nor write, while the whole district is plunged in the deepest
 ignorance.  Children who have attended Sunday school for years could not
 tell one letter from another, and the moral and religious education, as
-well as the intellectual, is on a very low plane. {207}
+well as the intellectual, is on a very low plane. {20  
 
 In the manufacture of glass, too, work occurs which seems little
 injurious to men, but cannot be endured by children.  The hard labour,
@@ -6759,7 +6759,7 @@ for weeks at a time, suffer from violent nausea, vomiting, coughs, colds,
 and rheumatism.  When the glass is withdrawn from the fire, the children
 must often go into such heat that the boards on which they stand catch
 fire under their feet.  The glassblowers usually die young of debility
-and chest affections. {208}
+and chest affections. {20  
 
 As a whole, this report testifies to the gradual but sure introduction of
 the factory system into all branches of industry, recognisable especially
@@ -6848,7 +6848,7 @@ give security for the material delivered, and who distributes the work
 among the needle-women, receives 1.5d. per piece.  From this he deducts
 his own pay, at least .5d., so that 1d. at most reaches the pocket of the
 girl.  The girls who sew neckties must bind themselves to work sixteen
-hours a day, and receive 4.5s. a week. {210}  But the shirtmakers' lot is
+hours a day, and receive 4.5s. a week. {21    But the shirtmakers' lot is
 the worst.  They receive for an ordinary shirt 1.5d., formerly 2d.-3d.;
 but since the workhouse of St. Pancras, which is administered by a
 Radical board of guardians, began to undertake work at 1.5d., the poor
@@ -6870,7 +6870,7 @@ winter, the animal warmth of the workers is the only heat obtainable.
 Here they sit bent over their work, sewing from four or five in the
 morning until midnight, destroying their health in a year or two and
 ending in an early grave, without being able to obtain the poorest
-necessities of life meanwhile. {211}  And below them roll the brilliant
+necessities of life meanwhile. {21    And below them roll the brilliant
 equipages of the upper bourgeoisie, and perhaps ten steps away some
 pitiable dandy loses more money in one evening at faro than they can earn
 in a year.
@@ -6987,7 +6987,7 @@ all laws by which coalitions between working-men for labour purposes had
 hitherto been forbidden.  The working-men obtained a right previously
 restricted to the aristocracy and bourgeoisie, the right of free
 association.  Secret coalitions had, it is true, previously existed, but
-could never achieve great results.  In Glasgow, as Symonds {214} relates,
+could never achieve great results.  In Glasgow, as Symonds {21   relates,
 a general strike of weavers had taken place in 1812, which was brought
 about by a secret association.  It was repeated in 1822, and on this
 occasion vitriol was thrown into the faces of the two working-men who
@@ -7202,7 +7202,7 @@ need hardly say.  These facts are proof enough that in England, even in
 good business years, such as 1843, the social war is avowed and openly
 carried on, and still the English bourgeoisie does not stop to reflect!
 But the case which speaks most loudly is that of the Glasgow Thugs,
-{221a} which came up before the Assizes from the 3rd to the 11th of
+{221   which came up before the Assizes from the 3rd to the 11th of
 January, 1838.  It appears from the proceedings that the Cotton-Spinners'
 Union, which existed here from the year 1816, possessed rare organisation
 and power.  The members were bound by an oath to adhere to the decision
@@ -7224,7 +7224,7 @@ committee was now arrested, an investigation begun, and the leading
 members found guilty of participation in conspiracies, maltreatment of
 knobsticks, and incendiarism in the mill of James and Francis Wood, and
 they were transported for seven years.  What do our good Germans say to
-this story? {221b}
+this story? {221  
 
 The property-holding class, and especially the manufacturing portion of
 it which comes into direct contact with the working-men, declaims with
@@ -7246,9 +7246,9 @@ they get into a quarrel.  Beyond all other bourgeois is our friend Dr.
 Ure, the most furious enemy of the Unions.  He foams with indignation at
 the "secret tribunals" of the cotton-spinners, the most powerful section
 of the workers, tribunals which boast their ability to paralyse every
-disobedient manufacturer, {222a} "and so bring ruin on the man who had
+disobedient manufacturer, {222   "and so bring ruin on the man who had
 given them profitable employment for many a year."  He speaks of a time
-{222b} "when the inventive head and the sustaining heart of trade were
+{222   "when the inventive head and the sustaining heart of trade were
 held in bondage by the unruly lower members."  A pity that the English
 working-men will not let themselves be pacified so easily with thy fable
 as the Roman Plebs, thou modern Menenius Agrippa!  Finally, he relates
@@ -7265,7 +7265,7 @@ should be driven from the market by the French, Belgians, and Americans,
 addressed themselves to the machine-works of Sharp, Roberts & Co., and
 requested Mr. Sharp to turn his inventive mind to the construction of an
 automatic mule in order "to emancipate the trade from galling slavery and
-impending ruin." {223a}
+impending ruin." {223  
 
 "He produced in the course of a few months a machine apparently instinct
 with the thought, feeling, and tact of the experienced workman--which
@@ -7276,7 +7276,7 @@ modern Prometheus at the bidding of Minerva--a creation destined to
 restore order among the industrious classes, and to confirm to Great
 Britain the empire of art.  The news of this Herculean prodigy spread
 dismay through the Union, and even long before it left its cradle, so to
-speak, it strangled the Hydra of misrule." {223b}
+speak, it strangled the Hydra of misrule." {223  
 
 Ure proves further that the invention of the machine, with which four and
 five colours are printed at once, was a result of the disturbances among
@@ -7551,7 +7551,7 @@ safely in the background and could await the result without compromising
 itself if the worst came to the worst.  At the end of July business began
 to improve; it was high time.  In order not to lose the opportunity,
 three firms in Staleybridge reduced wages in spite of the improvement.
-{232}  Whether they did so of their own motion or in agreement with other
+{23    Whether they did so of their own motion or in agreement with other
 manufacturers, especially those of the League, I do not know.  Two
 withdrew after a time, but the third, William Bailey & Brothers, stood
 firm, and told the objecting operatives that "if this did not please
@@ -7684,7 +7684,7 @@ Stephens was a truth for a part of the Chartists only, in 1838, it is a
 truth for all of them in 1845.  There is no longer a mere politician
 among the Chartists, and even though their Socialism is very little
 developed, though their chief remedy for poverty has hitherto consisted
-in the land-allotment system, which was superseded {235} by the
+in the land-allotment system, which was superseded {23   by the
 introduction of manufacture, though their chief practical propositions
 are apparently of a reactionary nature, yet these very measures involve
 the alternative that they must either succumb to the power of competition
@@ -7871,7 +7871,7 @@ metals and the coal.  While Cornwall possesses rich copper, tin, zinc,
 and lead mines, Staffordshire, Wales, and other districts yield great
 quantities of iron, and almost the whole North and West of England,
 central Scotland, and certain districts of Ireland, produce a
-superabundance of coal. {241}
+superabundance of coal. {24  
 
 In the Cornish mines about 19,000 men, and 11,000 women and children are
 employed, in part above and in part below ground.  Within the mines below
@@ -7904,7 +7904,7 @@ done in the open air.
 
 In the North of England, on the borders of Northumberland and Durham, are
 the extensive lead mines of Alston Moor.  The reports from this district
-{242} agree almost wholly with those from Cornwall.  Here, too, there are
+{24   agree almost wholly with those from Cornwall.  Here, too, there are
 complaints of want of oxygen, excessive dust, powder smoke, carbonic acid
 gas, and sulphur, in the atmosphere of the workings.  In consequence, the
 miners here, as in Cornwall, are small of stature, and nearly all suffer
@@ -8464,7 +8464,7 @@ and the miners of the kingdom will be able to stand abreast of them in
 every respect.  Thus one piece of standing ground after another is
 undermined beneath the feet of the bourgeoisie; and how long will it be
 before their whole social and political edifice collapses with the basis
-upon which it rests? {259}
+upon which it rests? {25  
 
 But the bourgeoisie will not take warning.  The resistance of the miners
 does but embitter it the more.  Instead of appreciating this forward step
@@ -8587,7 +8587,7 @@ merely went without relief.  The poverty in the agricultural districts
 has increased every year.  The people live in the greatest want, whole
 families must struggle along with 6, 7, or 8 shillings a week, and at
 times have nothing.  Let us hear a description of this population given
-by a Liberal member of Parliament as early as 1830. {264}
+by a Liberal member of Parliament as early as 1830. {26  
 
    "An English agricultural labourer and an English pauper, these words
    are synonymous.  His father was a pauper and his mother's milk
@@ -8741,7 +8741,7 @@ the question is an important one for both.  That is to say--by the repeal
 of the Corn Laws, free competition, the present social economy is carried
 to its extreme point; all further development within the present order
 comes to an end, and the only possible step farther is a radical
-transformation of the social order. {268}  For the agricultural labourers
+transformation of the social order. {26    For the agricultural labourers
 the question has, further, the following important bearing: Free
 importation of corn involves (how, I cannot explain _here_) the
 emancipation of the farmers from the landlords, their transformation into
@@ -8759,7 +8759,7 @@ for themselves, telling Earl Radnor all sorts of bitter truths to his
 face.  Thus the movement of the working-class is finding its way into the
 remote, stationary, mentally dead agricultural districts; and, thanks to
 the general distress, will soon be as firmly rooted and energetic as in
-the manufacturing districts. {269}  As to the religious state of the
+the manufacturing districts. {26    As to the religious state of the
 agricultural labourers, they are, it is true, more pious than the
 manufacturing operatives; but they, too, are greatly at odds with the
 Church--for in these districts members of the Established Church almost
@@ -8850,7 +8850,7 @@ in competition for plots.  Although in Great Britain 32,000,000 acres of
 land are cultivated, and in Ireland but 14,000,000; although Great
 Britain produces agricultural products to the value of 150,000,000
 pounds, and Ireland of but 36,000,000 pounds, there are in Ireland 75,000
-agricultural proletarians _more_ than in the neighbouring island. {272a}
+agricultural proletarians _more_ than in the neighbouring island. {272  
 How great the competition for land in Ireland must be is evident from
 this extraordinary disproportion, especially when one reflects that the
 labourers in Great Britain are living in the utmost distress.  The
@@ -8872,7 +8872,7 @@ poor as church mice, wear the most wretched rags, and stand upon the
 lowest plane of intelligence possible in a half-civilised country.
 According to the report quoted, there are, in a population of 8.5
 millions, 585,000 heads of families in a state of total destitution; and
-according to other authorities, cited by Sheriff Alison, {272b} there are
+according to other authorities, cited by Sheriff Alison, {272   there are
 in Ireland 2,300,000 persons who could not live without public or private
 assistance--or 27 per cent. of the whole population paupers!
 
@@ -8913,7 +8913,7 @@ character to the Latin nations, to the French, and especially to the
 Italians.  The bad features of their character we have already had
 depicted by Carlyle.  Let us now hear an Irishman, who at least comes
 nearer to the truth than Carlyle, with his prejudice in favour of the
-Teutonic character: {273}
+Teutonic character: {27  
 
    "They are restless, yet indolent, clever and indiscreet, stormy,
    impatient, and improvident; brave by instinct, generous without much
@@ -8999,7 +8999,7 @@ bourgeoisie; and I mean by this, especially the bourgeoisie proper,
 particularly the Liberal, Corn Law repealing bourgeoisie.  For it nothing
 exists in this world, except for the sake of money, itself not excluded.
 It knows no bliss save that of rapid gain, no pain save that of losing
-gold. {276}  In the presence of this avarice and lust of gain, it is not
+gold. {27    In the presence of this avarice and lust of gain, it is not
 possible for a single human sentiment or opinion to remain untainted.
 True, these English bourgeois are good husbands and family men, and have
 all sorts of other private virtues, and appear, in ordinary intercourse,
@@ -9329,7 +9329,7 @@ protection, it was found that this system was ruining the nation, was--
    the provision of aliment, it sets a premium upon illegitimate
    children."
 
-(Words of the Report of the Poor Law Commissioners.) {286}  This
+(Words of the Report of the Poor Law Commissioners.) {28    This
 description of the action of the Old Poor Law is certainly correct;
 relief fosters laziness and increase of "surplus population."  Under
 present social conditions it is perfectly clear that the poor man is
@@ -9571,7 +9571,7 @@ and the "Noble Lords" gave their consent each time.  Thus is the
 expulsion of the proletariat from State and society outspoken, thus is it
 publicly proclaimed that proletarians are not human beings, and do not
 deserve to be treated as such.  Let us leave it to the proletarians of
-the British Empire to re-conquer their human rights. {293}
+the British Empire to re-conquer their human rights. {29  
 
 Such is the state of the British working-class as I have come to know it
 in the course of twenty-one months, through the medium of my own eyes,
@@ -9642,7 +9642,7 @@ development of the proletariat, will probably shorten the process, acting
 in concert with foreign competition and the deepening ruin of the lower
 middle-class.  I think the people will not endure more than one more
 crisis.  The next one, in 1846 or 1847, will probably bring with it the
-repeal of the Corn Laws {296} and the enactment of the Charter.  What
+repeal of the Corn Laws {29   and the enactment of the Charter.  What
 revolutionary movements the Charter may give rise to remains to be seen.
 But, by the time of the next following crisis, which, according to the
 analogy of its predecessors, must break out in 1852 or 1853, unless
