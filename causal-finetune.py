@@ -56,8 +56,8 @@ for model_name in models:
         learning_rate=2e-5,
         num_train_epochs=10,
         weight_decay=0.01,
-        output_dir= f"./{model_name.replace('/', '_')}-finetuned-causal-output",
-        logging_dir= f"./{model_name.replace('/', '_')}-finetuned-causal-logs",
+        output_dir= f"./models/{model_name.replace('/', '_')}-finetuned-causal-output",
+        logging_dir= f"./models/{model_name.replace('/', '_')}-finetuned-causal-logs",
         logging_steps=10,
     )
 
@@ -70,5 +70,5 @@ for model_name in models:
 
     trainer.train()
     print( f"Saving {model_name}" )
-    trainer.save_model(f"./{model_name.replace('/', '_')}-finetuned-causal")
-    tokenizer.save_pretrained(f"./{model_name.replace('/', '_')}-finetuned-causal")
+    trainer.save_model(f"./models/{model_name.replace('/', '_')}-finetuned-causal")
+    tokenizer.save_pretrained(f"./models/{model_name.replace('/', '_')}-finetuned-causal")

@@ -61,8 +61,8 @@ for model_name in models:
         learning_rate=2e-5,
         num_train_epochs=10,
         weight_decay=0.01,
-        output_dir=  f"./{model_name.replace('/', '_')}-finetuned-masked-output",
-        logging_dir= f"./{model_name.replace('/', '_')}-finetuned-masked-logs",
+        output_dir=  f"./models/{model_name.replace('/', '_')}-finetuned-masked-output",
+        logging_dir= f"./models/{model_name.replace('/', '_')}-finetuned-masked-logs",
         logging_steps=10,
     )
 
@@ -83,5 +83,5 @@ for model_name in models:
     #print(f"Perplexity: {math.exp(eval_results['eval_loss']):.2f}")
 
     print( f"Saving {model_name}" )
-    trainer.save_model(f"./{model_name.replace('/', '_')}-finetuned-masked-model")
-    tokenizer.save_pretrained(f"./{model_name.replace('/', '_')}-finetuned-masked-model")
+    trainer.save_model(f"./models/{model_name.replace('/', '_')}-finetuned-masked-model")
+    tokenizer.save_pretrained(f"./models/{model_name.replace('/', '_')}-finetuned-masked-model")
