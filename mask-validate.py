@@ -23,8 +23,9 @@ for model_name in models:
         torch.manual_seed(0)
         random.seed(0)
 
-        generator = pipeline('text-generation', model = f"./{model_name.replace('/', '_')}-finetuned-masked")
+        generator = pipeline('fill-mask', model = f"./models/{model_name.replace('/', '_')}-finetuned-masked-model/")
 
-        for i in range( 10 ):
-            text = generator( prompt + '[MASK]' ) 
-            out.writerow(  [model_name, prompt.strip(), text[0]['sequence'].strip() ] )
+        text = generator( prompt + ' [MASK]' )
+        for i in range( min( 10 , len(text) ) ):
+            print( text[i]['token_str'].strip() )
+            out.writerow(  [model_name, prompt.strip(), text[i]['token_str'].strip() ] )
