@@ -3,6 +3,8 @@ import tokenizers
 import random
 import torch
 
+import re
+
 from datasets import load_dataset
 from datasets import ClassLabel
 
@@ -11,12 +13,18 @@ from transformers import AutoModelForMaskedLM
 from transformers import Trainer, TrainingArguments
 from transformers import DataCollatorForLanguageModeling
 
-models = """google-bert/bert-base-cased
-distilbert/distilbert-base-cased
+from tokenizers.normalizers import Sequence, Replace
+
+models = """google-bert/bert-base-cased"""
+"""distilbert/distilbert-base-cased
 FacebookAI/roberta-base
 microsoft/deberta-v3-base
 distilbert/distilroberta-base"""
 models = models.split("\n")
+
+custom_normalizer = Sequence([
+     ## Add here
+])
 
 for model_name in models:
 
@@ -28,10 +36,10 @@ for model_name in models:
         datasets = load_dataset("text", data_files={"train": './data/*.txt', "validation": './data/*.txt'})
 
         tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=True)
-        tokenizer.normalizer = tokenizers.normalizers.BertNormalizer( lowercase=False )
+        tokenizer.normalizer = custom_normalizer
     
         def tokenize_function(examples):
-            return tokenizer(examples["text"])
+            return tokenizer( examples["text"] )
 
         tokenized_datasets = datasets.map(tokenize_function, batched=True, num_proc=4, remove_columns=["text"])
 
@@ -55,7 +63,10 @@ for model_name in models:
             num_proc=4,
         )
 
-        model = AutoModelForMaskedLM.from_pretrained( model_name )
+        try:
+            model = AutoModelForMaskedLM.from_pretrained( model_name, mask_token = "[MASK]" )
+        except:
+           model = AutoModelForMaskedLM.from_pretrained( model_name )
 
         training_args = TrainingArguments(
             evaluation_strategy = "epoch",
