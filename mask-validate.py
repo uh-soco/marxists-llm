@@ -11,21 +11,31 @@ microsoft/deberta-v3-base
 distilbert/distilroberta-base"""
 models = models.split("\n")
 
-prompts = open("prompts.txt").readlines()
+masks = open("masks.txt").readlines()
 
 out = csv.writer( open("masked.csv", "w") )
 out.writerow(  ["model", "prompt", "output"] )
 
 for model_name in models:
 
-    for prompt in prompts:
+    for mask in masks:
 
         torch.manual_seed(0)
         random.seed(0)
 
         generator = pipeline('fill-mask', model = f"./models/{model_name.replace('/', '_')}-finetuned-masked-model/")
 
-        text = generator( prompt + ' [MASK]' )
+        text = generator( mask.split('|')[1] )
         for i in range( min( 10 , len(text) ) ):
-            print( text[i]['token_str'].strip() )
-            out.writerow(  [model_name, prompt.strip(), text[i]['token_str'].strip() ] )
+            out.writerow(  [model_name, mask, text[i]['token_str'].strip() ] )
+
+    for mask in masks:
+
+        torch.manual_seed(0)
+        random.seed(0)
+
+        generator = pipeline('fill-mask', model = model_name )
+
+        text = generator( mask.split('|')[1] )
+        for i in range( min( 10 , len(text) ) ):
+            out.writerow(  [model_name, mask, text[i]['token_str'].strip() ] )
