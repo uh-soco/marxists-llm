@@ -15,16 +15,12 @@ from transformers import DataCollatorForLanguageModeling
 
 from tokenizers.normalizers import Sequence, Replace
 
-models = """google-bert/bert-base-cased"""
-"""distilbert/distilbert-base-cased
+models = """google-bert/bert-base-cased
+distilbert/distilbert-base-cased
 FacebookAI/roberta-base
 microsoft/deberta-v3-base
 distilbert/distilroberta-base"""
 models = models.split("\n")
-
-custom_normalizer = Sequence([
-     ## Add here
-])
 
 for model_name in models:
 
@@ -36,10 +32,10 @@ for model_name in models:
         datasets = load_dataset("text", data_files={"train": './data/*.txt', "validation": './data/*.txt'})
 
         tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=True)
-        tokenizer.normalizer = custom_normalizer
-    
+
         def tokenize_function(examples):
             return tokenizer( examples["text"] )
+
 
         tokenized_datasets = datasets.map(tokenize_function, batched=True, num_proc=4, remove_columns=["text"])
 
