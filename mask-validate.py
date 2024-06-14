@@ -25,7 +25,11 @@ for model_name in models:
 
         generator = pipeline('fill-mask', model = f"./models/{model_name.replace('/', '_')}-finetuned-masked-model/")
 
-        text = generator( mask.split('|')[1] )
+        try:
+            text = generator( mask.split('|')[1] )
+        except:
+            text = generator( mask.split('|')[1].replace('[MASK]', '<mask>') )
+            
         for i in range( min( 10 , len(text) ) ):
             out.writerow(  [model_name, mask, text[i]['token_str'].strip() ] )
 
@@ -36,6 +40,10 @@ for model_name in models:
 
         generator = pipeline('fill-mask', model = model_name )
 
-        text = generator( mask.split('|')[1] )
+        try:
+            text = generator( mask.split('|')[1] )
+        except:
+            text = generator( mask.split('|')[1].replace('[MASK]', '<mask>') )
+
         for i in range( min( 10 , len(text) ) ):
             out.writerow(  [model_name, mask, text[i]['token_str'].strip() ] )
