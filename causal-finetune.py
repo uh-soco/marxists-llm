@@ -1,10 +1,11 @@
+import transformers
+import torch
+
 from transformers import AutoModel, AutoTokenizer
 from datasets import load_dataset
 from transformers import Trainer, TrainingArguments
 from transformers import AutoTokenizer
 from transformers import AutoModelForCausalLM
-import random
-import torch
 
 models = """openai-community/gpt2
 distilbert/distilgpt2"""
@@ -14,8 +15,7 @@ for model_name in models:
 
     print(f"Start {model_name}")
     try:
-        torch.manual_seed(0)
-        random.seed(0)
+        transformers.enable_full_determinism( 0 )
 
         tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=True)
         tokenizer.pad_token = tokenizer.eos_token

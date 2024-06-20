@@ -1,8 +1,10 @@
 import random
 import csv
 
-from transformers import pipeline
+import transformers
 import torch
+
+from transformers import pipeline
 
 models = """openai-community/gpt2
 distilbert/distilgpt2"""
@@ -17,8 +19,7 @@ for model_name in models:
 
     for prompt in prompts:
 
-        torch.manual_seed(0)
-        random.seed(0)
+        transformers.enable_full_determinism( 0 )
 
         generator = pipeline('text-generation', model = f"./models/{model_name.replace('/', '_')}-finetuned-causal/")
 

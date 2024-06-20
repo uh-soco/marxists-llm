@@ -1,9 +1,8 @@
+import re
+
 import transformers
 import tokenizers
-import random
 import torch
-
-import re
 
 from datasets import load_dataset
 from datasets import ClassLabel
@@ -12,8 +11,6 @@ from transformers import AutoTokenizer
 from transformers import AutoModelForMaskedLM
 from transformers import Trainer, TrainingArguments
 from transformers import DataCollatorForLanguageModeling
-
-from tokenizers.normalizers import Sequence, Replace
 
 models = """google-bert/bert-base-cased
 distilbert/distilbert-base-cased
@@ -26,8 +23,7 @@ for model_name in models:
 
     print(f"Start {model_name}")
     try:
-        torch.manual_seed(0)
-        random.seed(0)
+        transformers.enable_full_determinism( 0 )
 
         datasets = load_dataset("text", data_files={"train": './data/*.txt', "validation": './data/*.txt'})
 
@@ -85,10 +81,6 @@ for model_name in models:
         )
 
         trainer.train()
-
-        #import math
-        #eval_results = trainer.evaluate()
-        #print(f"Perplexity: {math.exp(eval_results['eval_loss']):.2f}")
 
         print( f"Saving {model_name}" )
         trainer.save_model(f"./models/{model_name.replace('/', '_')}-finetuned-masked-model")
