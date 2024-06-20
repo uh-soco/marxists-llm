@@ -30,8 +30,8 @@ for model_name in models:
         except:
             text = generator( mask.split('|')[1].replace('[MASK]', '<mask>') )
             
-        for i in range( min( 10 , len(text) ) ):
-            out.writerow(  [model_name, mask, text[i]['token_str'].strip() ] )
+        for i in range( min( 5 , len(text) ) ):
+            out.writerow(  [f"finetuned-{model_name}", mask, text[i]['token_str'].strip() ] )
 
     for mask in masks:
 
@@ -45,5 +45,5 @@ for model_name in models:
         except:
             text = generator( mask.split('|')[1].replace('[MASK]', '<mask>') )
 
-        for i in range( min( 10 , len(text) ) ):
+        for i in range( min( 5, len(text) ) ):
             out.writerow(  [model_name, mask, text[i]['token_str'].strip() ] )
