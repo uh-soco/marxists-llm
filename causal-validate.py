@@ -5,10 +5,7 @@ from transformers import pipeline
 import torch
 
 models = """openai-community/gpt2
-distilbert/distilgpt2
-chavinlo/alpaca-native
-bigscience/bloom
-microsoft/phi-2"""
+distilbert/distilgpt2"""
 models = models.split("\n")
 
 out = csv.writer( open("causal.csv", "w") )
