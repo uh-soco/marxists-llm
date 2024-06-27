@@ -1,88 +1,113 @@
 library("ggplot2")
 
-# df<-read.csv(file="GoogleNews_Embedding.csv", header=TRUE,row.names=1, sep=",")
-df <-read.csv(file="distilbert.csv", header=FALSE,row.names=1, sep=",")
-# df <-read.csv(file="marx.csv", header=FALSE,row.names=1, sep=",")
-#df<-read.csv(file="/DIRECTORY/US_Ngrams_2000_12.csv", header=TRUE,row.names=1, sep=",")
+make_analysis <- function( df, output ) {
 
-#####DEFINE FUNCTIONS##########
-#Calculate norm of vector#
-norm_vec <- function(x) sqrt(sum(x^2))
+    ## from orginal paper
 
-#Dot product#
-dot <- function(x,y) (sum(x*y))
+    #####DEFINE FUNCTIONS##########
+    #Calculate norm of vector#
+    norm_vec <- function(x) sqrt(sum(x^2))
 
-#Cosine Similarity#
-cos <- function(x,y) dot(x,y)/norm_vec(x)/norm_vec(y)
+    #Dot product#
+    dot <- function(x,y) (sum(x*y))
 
-#Normalize vector#
-nrm <- function(x) x/norm_vec(x)
+    #Cosine Similarity#
+    cos <- function(x,y) dot(x,y)/norm_vec(x)/norm_vec(y)
 
-#Calculate semantic dimension from antonym pair#
-dimension<-function(x,y) nrm(nrm(x)-nrm(y))
+    #Normalize vector#
+    nrm <- function(x) x/norm_vec(x)
 
-###STORE EMBEDDING AS MATRIX, NORMALIZE WORD VECTORS###
-cdfm<-as.matrix(data.frame(df))
-cdfmn<-t(apply(cdfm,1,nrm))
+    #Calculate semantic dimension from antonym pair#
+    dimension<-function(x,y) nrm(nrm(x)-nrm(y))
 
-
-###IMPORT LISTS OF TERMS TO PROJECT AND ANTONYM PAIRS#####
-ant_pairs_aff <- read.csv("word_pairs/affluence_pairs.csv",header=FALSE, stringsAsFactor=F)
-ant_pairs_gen <- read.csv("word_pairs/gender_pairs.csv",header=FALSE, stringsAsFactor=F)
-ant_pairs_race <- read.csv("word_pairs/race_pairs.csv",header=FALSE, stringsAsFactor=F)
+    ###STORE EMBEDDING AS MATRIX, NORMALIZE WORD VECTORS###
+    cdfm<-as.matrix(data.frame(df))
+    cdfmn<-t(apply(cdfm,1,nrm))
 
 
-word_dims<-matrix(NA,nrow(ant_pairs_aff),ncol( df ))
+    ###IMPORT LISTS OF TERMS TO PROJECT AND ANTONYM PAIRS#####
+    ant_pairs_aff <- read.csv("word_pairs/affluence_pairs.csv",header=FALSE, stringsAsFactor=F)
+    ant_pairs_gen <- read.csv("word_pairs/gender_pairs.csv",header=FALSE, stringsAsFactor=F)
+    ant_pairs_race <- read.csv("word_pairs/race_pairs.csv",header=FALSE, stringsAsFactor=F)
 
 
-###SETUP "make_dim" FUNCTION, INPUT EMBEDDING AND ANTONYM PAIR LIST#######
-###OUTPUT AVERAGE SEMANTIC DIMENSION###
+    word_dims<-matrix(NA,nrow(ant_pairs_aff),ncol( df ))
 
-make_dim<-function(embedding,pairs){
-    word_dims<-data.frame(matrix(NA,nrow(pairs),ncol( df )))
-    for (j in 1:nrow(pairs)){
-        rp_word1<-pairs[j,1]
-        rp_word2<-pairs[j,2]
-        tryCatch(
-            word_dims[j,]<-dimension(embedding[rp_word1,],embedding[rp_word2,]),
-            error=function(e){}
-        )
+
+    ###SETUP "make_dim" FUNCTION, INPUT EMBEDDING AND ANTONYM PAIR LIST#######
+    ###OUTPUT AVERAGE SEMANTIC DIMENSION###
+
+    make_dim<-function(embedding,pairs){
+        word_dims<-data.frame(matrix(NA,nrow(pairs),ncol( df )))
+        for (j in 1:nrow(pairs)){
+            rp_word1<-pairs[j,1]
+            rp_word2<-pairs[j,2]
+            tryCatch(
+                word_dims[j,]<-dimension(embedding[rp_word1,],embedding[rp_word2,]),
+                error=function(e){}
+            )
+        }
+        dim_ave<-colMeans(word_dims, na.rm = TRUE)
+        dim_ave_n<-nrm(dim_ave)
+        return(dim_ave_n)
     }
-    dim_ave<-colMeans(word_dims, na.rm = TRUE)
-    dim_ave_n<-nrm(dim_ave)
-    return(dim_ave_n)
+
+
+    #####CONSTRUCT AFFLUENCE, GENDER, AND RACE DIMENSIONS######
+    aff_dim<-make_dim(df,ant_pairs_aff)
+    gender_dim<-make_dim(df,ant_pairs_gen)
+    race_dim<-make_dim(df,ant_pairs_race)
+
+
+    ####ANGLES BETWEEN DIMENSIONS#######
+    cos(aff_dim,gender_dim)
+    cos(aff_dim,race_dim)
+    cos(gender_dim,race_dim)
+
+
+    ####CALCULATE PROJECTIONS BY MATRIX MULTIPLICATION####
+    ###(Equivalent to cosine similarity because vectors are normalized)###
+    aff_proj<-cdfmn%*%aff_dim
+    gender_proj<-cdfmn%*%gender_dim
+    race_proj<-cdfmn%*%race_dim
+
+    projections_df<-cbind(aff_proj, gender_proj, race_proj)
+    colnames(projections_df)<-c("aff_proj","gender_proj","race_proj")
+
+
+    ########################################################################
+
+
+    ###CREATE VISUALIZATION###
+    wlist=c("camping","baseball","boxing","volleyball","softball","golf","tennis","soccer","basketball","hockey")
+    Visualization<-ggplot(data=data.frame(projections_df[wlist,]),aes(x=gender_proj,y=aff_proj,label=wlist)) + geom_text()
+    Visualization+ theme_bw() +
+    ylab("Affluance") + xlab("Gender")
+    ggsave( output )
+
+    ########################################################################
+
 }
 
+df <-read.csv(file="marxist-embedding.csv", header=FALSE, sep=",")
 
-#####CONSTRUCT AFFLUENCE, GENDER, AND RACE DIMENSIONS######
-aff_dim<-make_dim(df,ant_pairs_aff)
-gender_dim<-make_dim(df,ant_pairs_gen)
-race_dim<-make_dim(df,ant_pairs_race)
+## custom code to modify the CSV for a working format
+df <- df[ ! is.na( df$V1 ), ]
+df$V1 <- gsub( "▁", "", df$V1 )
+df <- df[!duplicated(df[ , c("V1")]),]
+row.names( df ) <- df$V1
+df$V1 <- NULL
 
+make_analysis( df, "marxist-hobby.pdf")
 
-####ANGLES BETWEEN DIMENSIONS#######
-cos(aff_dim,gender_dim)
-cos(aff_dim,race_dim)
-cos(gender_dim,race_dim)
+df <-read.csv(file="capitalist-embedding.csv", header=FALSE, sep=",")
 
+## custom code to modify the CSV for a working format
+df <- df[ ! is.na( df$V1 ), ]
+df$V1 <- gsub( "▁", "", df$V1 )
+df <- df[!duplicated(df[ , c("V1")]),]
+row.names( df ) <- df$V1
+df$V1 <- NULL
 
-####CALCULATE PROJECTIONS BY MATRIX MULTIPLICATION####
-###(Equivalent to cosine similarity because vectors are normalized)###
-aff_proj<-cdfmn%*%aff_dim
-gender_proj<-cdfmn%*%gender_dim
-race_proj<-cdfmn%*%race_dim
-
-projections_df<-cbind(aff_proj, gender_proj, race_proj)
-colnames(projections_df)<-c("aff_proj","gender_proj","race_proj")
-
-
-########################################################################
-
-
-###CREATE VISUALIZATION###
-wlist=c("camping","baseball","boxing","volleyball","softball","golf","tennis","soccer","basketball","hockey")
-Visualization<-ggplot(data=data.frame(projections_df[wlist,]),aes(x=gender_proj,y=aff_proj,label=wlist)) + geom_text()
-Visualization+ theme_bw() # +ylim(-.25,.25) +xlim(-.25,.25)
-
-########################################################################
+make_analysis( df, "capitalist-hobby.pdf")
 
