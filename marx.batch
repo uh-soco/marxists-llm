@@ -1,13 +1,12 @@
 #!/bin/bash
 #SBATCH --job-name=MarxLLM
 #SBATCH --account=project_2013576
-#SBATCH --partition=gpu
-#SBATCH --time=48:00:00
-#SBATCH --mem=300G
-#SBATCH --gres=gpu:v100:4
-#SBATCH --cpus-per-task=40
-#SBATCH --error=~/log/marx_error.log
-#SBATCH --output=~/log/marx_out.log 
+#SBATCH --partition=gpumedium
+#SBATCH --time=36:00:00
+#SBATCH --gres=gpu:gh200:4
+#SBATCH --cpus-per-task=72
+#SBATCH --error=/users/YOURUSER/log/marx_error.log
+#SBATCH --output=/users/YOURUSER/log/marx_out.log 
 
 export TRANSFORMERS_CACHE= /scratch/project_2013576/cache
 export HF_HOME=/scratch/project_2013576/cache
