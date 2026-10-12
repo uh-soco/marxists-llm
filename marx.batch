@@ -1,0 +1,26 @@
+#!/bin/bash
+#SBATCH --job-name=MarxLLM
+#SBATCH --account=project_2013576
+#SBATCH --partition=gpu
+#SBATCH --time=48:00:00
+#SBATCH --mem=300G
+#SBATCH --gres=gpu:v100:4
+#SBATCH --cpus-per-task=40
+#SBATCH --error=~/log/marx_error.log
+#SBATCH --output=~/log/marx_out.log 
+
+export TRANSFORMERS_CACHE= /scratch/project_2013576/cache
+export HF_HOME=/scratch/project_2013576/cache
+
+module purge
+module load pytorch
+cd /project_appl/project_2013576/code/
+
+export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
+
+export PATH=/scratch/project_2013576/
+
+python3 causal-finetune.py
+python3 mask-finetune.py
+python3 causal-validate.py
+python3 mask-validate.py
