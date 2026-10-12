@@ -1,4 +1,5 @@
 import re
+import os
 
 import transformers
 import tokenizers
@@ -16,8 +17,12 @@ models = """google-bert/bert-base-cased
 distilbert/distilbert-base-cased
 FacebookAI/roberta-base
 microsoft/deberta-v3-base
-distilbert/distilroberta-base"""
+distilbert/distilroberta-base
+EuroBERT/EuroBERT-2.1B
+answerdotai/ModernBERT-base"""
 models = models.split("\n")
+
+PATH = os.environ.get("PATH", "./")
 
 for model_name in models:
 
@@ -56,17 +61,17 @@ for model_name in models:
         )
 
         try:
-            model = AutoModelForMaskedLM.from_pretrained( model_name, mask_token = "[MASK]" )
+            model = AutoModelForMaskedLM.from_pretrained( model_name, mask_token = "[MASK]", device_map="auto" )
         except:
-           model = AutoModelForMaskedLM.from_pretrained( model_name )
+           model = AutoModelForMaskedLM.from_pretrained( model_name, device_map="auto" )
 
         training_args = TrainingArguments(
-            evaluation_strategy = "epoch",
+            eval_strategy="epoch",
             learning_rate=2e-5,
             num_train_epochs=10,
             weight_decay=0.01,
-            output_dir=  f"./models/{model_name.replace('/', '_')}-finetuned-masked-output",
-            logging_dir= f"./models/{model_name.replace('/', '_')}-finetuned-masked-logs",
+            output_dir=  f"{PATH}/models/{model_name.replace('/', '_')}-finetuned-masked-output",
+            logging_dir= f"{PATH}/models/{model_name.replace('/', '_')}-finetuned-masked-logs",
             logging_steps=10,
         )
 
@@ -83,8 +88,8 @@ for model_name in models:
         trainer.train()
 
         print( f"Saving {model_name}" )
-        trainer.save_model(f"./models/{model_name.replace('/', '_')}-finetuned-masked-model")
-        tokenizer.save_pretrained(f"./models/{model_name.replace('/', '_')}-finetuned-masked-model")
+        trainer.save_model(f"{PATH}/models/{model_name.replace('/', '_')}-finetuned-masked-model")
+        tokenizer.save_pretrained(f"{PATH}/models/{model_name.replace('/', '_')}-finetuned-masked-model")
     except Exception as e:
         print( f"Failed {model_name}" )
         print( e )

@@ -1,5 +1,9 @@
+import os
+
 import transformers
 import csv
+
+PATH = os.environ.get("PATH", "./")
 
 from transformers import pipeline
 import torch
@@ -18,7 +22,7 @@ for model_name in models:
 
         transformers.enable_full_determinism( 0 )
 
-        generator = pipeline('text-generation', model = f"./models/{model_name.replace('/', '_')}-finetuned-causal-model/")
+        generator = pipeline('text-generation', model = f"{PATH}/models/{model_name.replace('/', '_')}-finetuned-causal-model/")
 
         for i in range( 2 ):
             text = generator( prompt )

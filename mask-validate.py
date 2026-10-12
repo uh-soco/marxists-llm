@@ -1,5 +1,6 @@
 import random
 import csv
+import os
 
 import transformers
 import torch
@@ -13,6 +14,8 @@ microsoft/deberta-v3-base
 distilbert/distilroberta-base"""
 models = models.split("\n")
 
+PATH = os.environ.get("PATH", "./")
+
 masks = open("masks.txt").readlines()
 
 out = csv.writer( open("masked.csv", "w") )
@@ -23,7 +26,7 @@ for model_name in models:
     for mask in masks:
 
         transformers.enable_full_determinism( 0 )
-        generator = pipeline('fill-mask', model = f"./models/{model_name.replace('/', '_')}-finetuned-masked-model/")
+        generator = pipeline('fill-mask', model = f"{PATH}/models/{model_name.replace('/', '_')}-finetuned-masked-model/")
 
         try:
             text = generator( mask.split('|')[1] )
